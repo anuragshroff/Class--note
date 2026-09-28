@@ -1,0 +1,202 @@
+LIST OF PROGRAMS FOR LABORATORY PRACTICAL
+
+WEEK 1
+
+Q1. Write a Program to display “Hello World”.
+
+Q2. Write a Program to find the summation and difference of two floating variables.
+
+Q3. Write a Program to find the last digit of a number and print the new number deleting the last digit.
+
+Q4. Write a Program to find the last digit of a number without using modulus (%) operator.
+
+Q5. Write a Program to delete the last two digits of any user given input number and print the new number.
+
+Q6. Write a Program to double the last digit of any user given input number and also print the new number.
+
+Q7. Write a Program to exchange the last two digits of any user given input number.
+
+Q8. Read two numbers. Write a Program to find their product after exchanging last digits.
+
+Q9. Write a Program to swap two numbers using and without using a third variable.
+
+Q10. Write a Program to change temperature from Fahrenheit to Celsius or vice-versa as per user choice.
+
+
+WEEK 2
+
+Q1. Write a Program, which reads a, b and c as sides of a triangle and prints area.
+Hint: area = sqrt(s * (s-a) * (s-b) * (s-c))
+
+Q2. Write a Program, which reads x1, y1, x2 and y2 and finds distance between points (x1, y1) and (x2, y2).
+
+Q3. Write a Program to check whether a number is even or odd.
+
+Q4. Write a Program to test whether any year is Leap year or not.
+
+Q5. Write a Program to accept the marks of a student and display the grade accordingly.
+[100-90: O, 89-80: E, 79-70: A, 69-60: B, 59-50: C, 49-40: D, Rest: F]
+
+Q6. Write a Program using switch-case that allows the user to enter two operands and select a mathematical operation from a menu. The program should perform the selected operation and display the result. The menu includes: Addition, Subtraction, Multiplication, Division, Modulus, Exponent.
+
+Q7. Write a Program to print the sum and product of digits of a user given input number.
+
+Q8. Write a Program to reverse the digits of an integer.
+
+Q9. Write a Program to calculate the factorial of an integer.
+
+
+WEEK 3
+
+Q1. Write a Program to print the Fibonacci series for a user given range.
+[0, 1, 1, 2, 3, 5, 8, ... n terms.]
+
+Q2. Write a Program to find all Prime numbers within a given range by user.
+[Limit: 50-70. Prime No.: 53, 59, 61, 67]
+
+Q3. Write a Program to check whether a user given number is Perfect Number or not.
+[28. 1 + 2 + 4 + 7 + 14 = 28.]
+
+Q4. Write a Program to generate all Palindrome numbers within a given range by user.
+[13531 <-> 13531]
+
+Q5. Write a Program to check if a user given number is Krishnamurthy number or not.
+(4! + 0! + 5! + 8! + 5!) = 40585
+
+Q6. Write a Program to check if a user given number is Disarium number or not.
+[135. (1^1 + 3^2 + 5^3) = 135.]
+
+Q7. Write a Program to perform menu-driven operations of a Volume Calculator. Accept dimensions from user, calculate the volume and display the result. The menu of shapes includes Sphere, Cylinder, Cone, Cuboid. The program should run in a loop until the user chooses to exit.
+
+
+WEEK 4
+
+Q1. Print the following pattern up to N Lines:
+
+****
+****
+****
+****
+
+Q2. Print the following pattern up to N Lines:
+
+*
+**
+***
+****
+
+Q3. Print the following pattern up to N Lines:
+
+****
+***
+**
+*
+
+Q4. Print the following pattern up to N Lines:
+
+   *
+  ***
+ *****
+*******
+
+Q5. Print the following pattern up to N Lines:
+
+*******
+ *****
+  ***
+   *
+
+Q6. Write a Program to print given pattern up to N lines:
+
+A
+BB
+CCC
+DDDD
+
+Q7. Write a Program to print given pattern up to N lines:
+
+ABCDE
+CDEF
+EFG
+GH
+I
+
+Q8. Write a Program to print given pattern up to N lines:
+
+A
+AC
+ACE
+ACEG
+ACEGI
+
+Q9. Print the following pattern up to N Lines:
+
+10001
+01010
+00100
+01010
+10001
+
+Q10. Print the following pattern up to N Lines:
+
+1
+121
+12321
+1234321
+
+Q11. Print the following pattern up to N Lines:
+
+1
+111
+121
+1331
+14641
+
+
+WEEK 5 - ARRAYS
+
+Q1. Write a Program to declare, read and display values in 1-D array of size n.
+
+Q2. Write a Program to declare, read and display values in a 2-D array of size m x n.
+
+Q3. Write a Program to copy the elements of one array into another array.
+
+Q4. Write a Program to find out the largest & smallest element in a user defined array of size n.
+
+Q5. Write a Program to reverse the elements of a user defined array of size n. [Do not print the array in reverse order]
+
+Q6. Write a Program to perform matrix addition with a 3 x 3 user defined matrix and print the final matrix accordingly.
+
+Q7. Write a Program to perform matrix multiplication with a 3 x 3 user defined matrix and print the final matrix accordingly.
+
+Q8. Write a Program to split an array from a user defined position.
+
+Q9. Write a Program to merge two user defined arrays.
+
+Q10. Write a Program to count the frequency of each element of a user defined array of size n.
+
+Q11. Write a Program to print the even and odd positions elements in a 1D array separately and also show their counts.
+
+
+WEEK 6 - STRINGS
+
+Q1. Write a Program to accept your name and print, “Welcome, <your name>”.
+
+Q2. Write a Program to find the length of a user defined string, without using string library functions.
+
+Q3. Write a Program to copy one string to another string.
+
+Q4. Write a Program to accept & reverse a string, without using string library functions.
+
+Q5. Write a Program to find the vowels and count them in a user input string.
+
+Q6. Write a Program to concatenate and compare two strings.
+
+Q7. Write a Program to input a word and check if it is palindrome or not.
+Example: malayalam <-> malayalam
+
+Q8. Write a Program to encode a word in Pig Latin. Check the first vowel, cut the letters before them & paste it at the end of the word with “ay”.
+Examples: “trouble” -> “oubletray”, “paris” -> “arisay”.
+
+
+TOTAL: 56 PROGRAMS
